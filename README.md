@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am an anime geek. 😁**
 
-<h3 align="left">Connect with me: 📱 555-1234 📧 [francespiaalexy@](mailto:francespiaalexy@yahoo.com)</h3>
+<h3 align="left">Connect with me: 📱 <a href="tel:63255551234">+63 2 555 1234</a> 📧 <a href="mailto:francespiaalexy@yahoo.com?subject=[github] Hello Pia!">francespiaalexy@</a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
